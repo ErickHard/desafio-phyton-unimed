@@ -1,6 +1,6 @@
 Digital Innovation One
 Desafios Inciais Python - Unimed BH
-Aluna: Erickson Menezes
+Aluno: Erickson Menezes
 Data: 03/10/2022
 
 ## Tecnologias
